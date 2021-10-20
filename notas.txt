@@ -1,0 +1,44 @@
+la clase es una plantilla de codigo que vamos usar para ejecutar un programa.
+Java se necesita de clases para ejecutar un programa.
+en programacion se le de derecha a izquiera
+
+
+public class hello{}
+
+Estas indicando que se llamo hello, y que es una clase y ademas es publica.
+en metodo MAIN, en todo programa es que el inicia tu codigo.
+
+javac es un compilador va traducir nuestro programa, ese proceso se llama bicot
+
+
+Errores Logicos;
+Errores Sintacticos;
+
+
+Tipos de datos en JAVA
+Primitivos: 
+Enteros:
+byte(-128 hasta 127)
+short(-32,768 hasta 32,767)
+int (-2,147,483,648 hasta 2,147,483,647)
+long (muy grande)
+
+Decimales
+float -- permite alojar de 8 valores desde el punto a la derecha. 
+double  -- permite alojar de 15 valores desde el punto a la derecha.
+
+
+OTROS
+char (un solo caracter)
+boolean (true or false)
+
+
+Tipos Objeto:
+String (cadenas de texto):
+
+
+¿Que es una variable? 
+Es un espacio de memoria donde vamos alojar datos o informacion
+necesitamos un tipo de dato y un nombre. 
+int number1
+
