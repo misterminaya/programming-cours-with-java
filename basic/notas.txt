@@ -66,16 +66,6 @@ Estructura condicional.
 Operadores relacionales: 
 <,>, ==, !=, <=,>=
 
-Operadores Logicos: 
-&&  - AND
-||  - OR
-
-
-
-
-
-
-
 
 
 
